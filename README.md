@@ -29,7 +29,7 @@ The following **additional** features are implemented:
 ## Video Walkthrough
 
 Here's a walkthrough of implemented user stories:
-![Video Walkthrough](flixsterGIF.gif)
+![Video Walkthrough](flixterGIF.gif)
 
 https://github.com/SolACruz/Flixster/blob/master/flixterGIF.gif
 
